@@ -6,11 +6,16 @@
     box-sizing: border-box;
 }
 
-/*body {
-    background-color: goldenrod;
-}*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: white;
+    text-transform: uppercase;
+}
 
 .container {
     border: 1px solid darkred;
-
+    background-color: #b71951;
 }
